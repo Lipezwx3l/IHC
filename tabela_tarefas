@@ -1,28 +1,44 @@
-# Introdução
-XXXXXXXXX
-## Subtítulo
-XXXXXXXXX
-### Coisa
-XXXXXXXXX
-XXXXXXXX
+# 1- Tabela de Terefas
+## 1.1 Dados do Projeto
 
-## Marcador
-- item 1
-- item 2
-- item 3
-- item 4
-+ item 5
-* item 6
+Docente: Andrey Antonio de Oliveira Rodrigues
 
-## Tabela
+**Equipe:**
 
-|ID|Localização|
-|--|-----------|
-|LIXO|LIXO|
+* A1: Felipe Gabriel Almeida Pena - 22550447
+* A2: Livan do Nascimento Zacarias - 22551476
+* A3: Arthur Vinicius Marques de Figueiredo Leal - 22553744
+* A4: Jenner Lucas dos Santos Carneiro - 22351505
+* A5: Renan Augusto dos Santos Schultz - 22553815
+* A6: Ian Gabriel Gomes Ramos da Silva - 22552958
 
-## Imagem
-![VRDP4INVR5A4FNQJB3YI36T7FE](https://github.com/user-attachments/assets/4d56427b-b4ff-4655-9fd1-3fb0f7f12063)
+**Tarefas:**
 
-<img src="https://github.com/user-attachments/assets/4d56427b-b4ff-4655-9fd1-3fb0f7f12063" alt="Imagem do Pitbull" width="400">
+* T1: Formatação do escopo do relatorio no github
+* T2: Geração dos objetivos(documento e sistema)
+* T3: Documentação do perfil dos usuarios-alvos
+* T4: Definição das tarefas/objetivos do usuário e para inspeção
+* T5: Avaliação individual de inspeção de usabiidade
+* T6: Relatorio da inspeção de usabilidade
+* T7: Teste de usabilidade
+* T8: Avaliação de UX
+* T9: Avaliação de MAC
+* T10: Edição de etiquetagem
+* T11: Conclusão dos resultados da inspeção
 
-[Imagem do Pitbull](https://github.com/user-attachments/assets/4d56427b-b4ff-4655-9fd1-3fb0f7f12063)
+  ### TABELA 1 - Tabela de tarefas/atividades 
+
+|  OUTUBRO   |    seg    |   ter     |   qua      |  qui      |   sex     |  sáb       |  dom       | seg     | ter     |  qua  |
+|------------|-----------|-----------|------------|-----------|-----------|------------|------------|---------|---------|-------|
+|TAREFA X DIA|     07    |08         |    09      |    09     |    11     |     12     |    13      |  14     |   15    |  16   |
+|  T1        |A1,A3,A4,A5|           |            |           |           |            |            |         |         |       |
+|  T2        |  A1 e A3  |           |            |           |           |            |            |         |         |       |
+|  T3        |     A1    |           |            |           |           |            |            |         |         |       |
+|  T4        |           |A1,A3,A4,A5|            |           |           |            |            |         |         |       |
+|  T5        |           |           |A1,A3,A4,A5 |           |           |            |            |         |         |       |
+|  T6        |           |           |            |  A3       |           |   A3       |  A3        |         |    A3   |       |
+|  T7        |           |           |            |           |           |            |            |         |A1,A3,A4,A5|     |
+|  T8        |           |           |            |           |           |            |            | A5      |         |       |
+|  T9        |           |           |            |           |           |            |            | A1      | A1      |  A1   |
+|  T10       |           |           |            |           |           |            |            |         | A1 e A5 |       |
+|  T11       |           |           |            |           |           |            |            |         | A3 e A4 |A3 e A4|
