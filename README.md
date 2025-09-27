@@ -6,7 +6,7 @@ Docente: Andrey Antonio de Oliveira Rodrigues
 
 Integrantes: 
 * Felipe Gabriel
-* Livan do Nascimentos
+* Livan do Nascimento
 * Arthur Vinicius
 * Renan Augusto
 * Ian Gabriel
