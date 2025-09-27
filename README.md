@@ -1,28 +1,20 @@
-# Introdução
-XXXXXXXXX
-## Subtítulo
-XXXXXXXXX
-### subsubtitulo 
-XXXXXXXXX
-XXXXXXXX
+# TP1 - IHC
 
-## Marcador
-- item 1
-- item 2
-- item 3
-- item 4
-+ item 5
-* item 6
+Curso: Engenharia de Software
 
-## Tabela
+Docente: Andrey Antonio de Oliveira Rodrigues
 
-|ID|Localização|
-|--|-----------|
-|LIXO|LIXO|
+Integrantes: 
+* Felipe Gabriel
+* Livan do Nascimentos
+* Arthur Vinicius
+* Renan Augusto
+* Ian Gabriel
+* Jenner Lucas
 
-## Imagem
-![VRDP4INVR5A4FNQJB3YI36T7FE](https://github.com/user-attachments/assets/4d56427b-b4ff-4655-9fd1-3fb0f7f12063)
+Sistema:
+Eucatur ( site )
 
-<img src="https://github.com/user-attachments/assets/4d56427b-b4ff-4655-9fd1-3fb0f7f12063" alt="Imagem do Pitbull" width="400">
+Estamos aqui para realizar um teste de usabilidade no site da Eucatur. Nosso principal objetivo é entender como os usuários interagem com a plataforma e identificar possíveis pontos de melhoria. Queremos analisar a facilidade de navegação, a clareza das informações e como os recursos disponíveis impactam a experiência do usuário.
 
-[Imagem do Pitbull](https://github.com/user-attachments/assets/4d56427b-b4ff-4655-9fd1-3fb0f7f12063)
+(Organizar links que levam para cada relatório e produto produzido neste trabalho)
