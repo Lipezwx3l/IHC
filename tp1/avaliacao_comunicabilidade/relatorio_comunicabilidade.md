@@ -95,19 +95,19 @@ Os testes foram realizados e etiquetados de acordo com a experiência de cada us
 | Usuário 1    | Conseguiu |
 
 ## Tabelas de etiquetas
-| Quantidade de etiquetas|                |
+|             Quantidade de etiquetas                |
 |------------------------|----------------|
-|        Etiqueta        | Quantidade     |
-|       Cadê?            |      3         |
-|      E agora?          |       2        |
-|     O que é isto?      |       0        |
-|      Epa!              |        1       |
-|    Onde estou          |        1       |
-|     Assim não dá.      |         0      |
-| Por que não funciona?  |         0      |
-| Ué, o que houve?       |         0      |
-|  Pra mim está bom...   |         2      |
-|  Desisto.              |         0      |
-| Vai de outro jeito.    |         0      |
-|   Não, obrigado.       |        2       |
-|  Socorro!              |        0       |
+|        Etiqueta        |    Quantidade     |
+|         Cadê?            |        3         |
+|        E agora?          |        2        |
+|     O que é isto?      |        0        |
+|          Epa!              |        1       |
+|       Onde estou          |        1       |
+|     Assim não dá.      |        0      |
+| Por que não funciona?  |        0      |
+|    Ué, o que houve?       |        0      |
+|  Pra mim está bom...   |        2      |
+|        Desisto.              |        0      |
+|   Vai de outro jeito.    |        0      |
+|     Não, obrigado.       |        2       |
+|        Socorro!              |        0       |
