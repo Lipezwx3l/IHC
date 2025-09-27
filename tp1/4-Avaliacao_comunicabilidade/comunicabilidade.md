@@ -42,12 +42,7 @@ Os testes foram realizados e etiquetados de acordo com a experiência de cada us
 | **Participante**| **Resultado**     |
 | Usuário 1   |  conseguiu    |            
 | Usuário 2   |  conseguiu    |            
-| Usuário 3   |  conseguiu    |            
-| Usuário 4   |  conseguiu    |   
-| Usuário 5   | não conseguiu              |
-| Usuário 6   | não conseguiu              |
-| Usuário 7   | não conseguiu              |
-| Usuário 8   | não conseguiu              |
+
 
 
 | Tarefa 2    | Simular busca de passagens             |            
@@ -55,20 +50,14 @@ Os testes foram realizados e etiquetados de acordo com a experiência de cada us
 | **Participante**| **Resultado**     |
 | Usuário 1   | conseguiu             |            
 | Usuário 2   |  conseguiu com dificuldade             |            
-| Usuário 3   |   conseguiu            |            
-| Usuário 4   |   conseguiu            |  
+
 
 | Tarefa 3    |Consultar horários e rotas              |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
 | Usuário 1   |  conseguiu             |            
 | Usuário 2   |  conseguiu com pouca dificuldade             |            
-| Usuário 3   |  conseguiu             |            
-| Usuário 4   |    não conseguiu           |  
-| Usuário 5   | não conseguiu              |
-| Usuário 6   | não conseguiu              |
-| Usuário 7   | não conseguiu              |
-| Usuário 8   | não conseguiu              |
+
 
 
 | Tarefa 4    |Verificar canais de atendimento             |            
@@ -76,12 +65,7 @@ Os testes foram realizados e etiquetados de acordo com a experiência de cada us
 | **Participante**| **Resultado**     |
 | Usuário 1   |  conseguiu             |            
 | Usuário 2   |  conseguiu             |            
-| Usuário 3   |  não conseguiu             |            
-| Usuário 4   |   conseguiu            |  
-| Usuário 5   | não conseguiu              |
-| Usuário 6   | não conseguiu              |
-| Usuário 7   | não conseguiu              |
-| Usuário 8   | não conseguiu              |
+
 
 
 | Tarefa 5    |Procurar a opção “dúvidas comprar passagem”         |            
@@ -89,12 +73,7 @@ Os testes foram realizados e etiquetados de acordo com a experiência de cada us
 | **Participante**| **Resultado**     |
 | Usuário 1   |  não conseguiu             |            
 | Usuário 2   |  não conseguiu             |            
-| Usuário 3   |  não conseguiu             |            
-| Usuário 4   |  não conseguiu             |  
-| Usuário 5   | não conseguiu              |
-| Usuário 6   | não conseguiu              |
-| Usuário 7   | não conseguiu              |
-| Usuário 8   | não conseguiu              |
+
 
 
 | Tarefa 6    | Procurar as informações da empresa           |            
@@ -102,12 +81,7 @@ Os testes foram realizados e etiquetados de acordo com a experiência de cada us
 | **Participante**| **Resultado**     |
 | Usuário 1   |   não conseguiu            |            
 | Usuário 2   |  conseguiu com pouca difculdade             |            
-| Usuário 3   |  conseguiu             |            
-| Usuário 4   |  conseguiu             |  
-| Usuário 5   | não conseguiu              |
-| Usuário 6   | não conseguiu              |
-| Usuário 7   | não conseguiu              |
-| Usuário 8   | não conseguiu              |
+
 
 
 | Tarefa 7    |Procurar os termos de uso da empresa               |            
@@ -115,12 +89,7 @@ Os testes foram realizados e etiquetados de acordo com a experiência de cada us
 | **Participante**| **Resultado**     |
 | Usuário 1   |  não conseguiu             |            
 | Usuário 2   |  não conseguiu             |            
-| Usuário 3   |   conseguiu            |            
-| Usuário 4   |   não conseguiu            |  
-| Usuário 5   | não conseguiu              |
-| Usuário 6   | não conseguiu              |
-| Usuário 7   | não conseguiu              |
-| Usuário 8   | não conseguiu              |
+
 
 
 | Tarefa 8    |Encontrar o programa de viagens para jovens               |            
@@ -128,12 +97,6 @@ Os testes foram realizados e etiquetados de acordo com a experiência de cada us
 | **Participante**| **Resultado**     |
 | Usuário 1   |  conseguiu             |            
 | Usuário 2   |  não conseguiu             |            
-| Usuário 3   |  conseguiu             |            
-| Usuário 4   |  não conseguiu             |  
-| Usuário 5   | não conseguiu              |
-| Usuário 6   | não conseguiu              |
-| Usuário 7   | não conseguiu              |
-| Usuário 8   | não conseguiu              |
 
 
 | Tarefa 9    | Encontrar a passagem mais barata das “melhores ofertas”              |            
@@ -141,24 +104,14 @@ Os testes foram realizados e etiquetados de acordo com a experiência de cada us
 | **Participante**| **Resultado**     |
 | Usuário 1   |  conseguiu             |            
 | Usuário 2   |  conseguiu             |            
-| Usuário 3   |  conseguiu             |            
-| Usuário 4   |   não conseguiu            |  
-| Usuário 5   | não conseguiu              |
-| Usuário 6   | não conseguiu              |
-| Usuário 7   | não conseguiu              |
-| Usuário 8   | não conseguiu              |
+
 
 | Tarefa 10    | Procure a opção “Guia do passageiro”             |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
 | Usuário 1   |  conseguiu             |            
 | Usuário 2   |  conseguiu             |            
-| Usuário 3   |  conseguiu             |            
-| Usuário 4   |   não conseguiu            |  
-| Usuário 5   | não conseguiu              |
-| Usuário 6   | não conseguiu              |
-| Usuário 7   | não conseguiu              |
-| Usuário 8   | não conseguiu              |
+
 
 
 ## Tabelas de etiquetas
