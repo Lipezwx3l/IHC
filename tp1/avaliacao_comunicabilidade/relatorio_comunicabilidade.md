@@ -34,87 +34,81 @@ O teste foi realizado por quatro usuários que realizaram a avaliação do siste
 ## Resultado
 Os testes foram realizados e etiquetados de acordo com a experiência de cada usuário.
 
+## Teste 1 - Avaliador: Felipe Gabriel
+
 ### Explorar promoções e ofertas
-| Tarefa 1    | Realizar login ou cadastro na Twitch.| 
+| Tarefa 1    | Explorar promoções e ofertas | 
 |-------------|---------------|
 | **Participante**| **Resultado**     |
-| Usuário 1   |  conseguiu    |            
-| Usuário 2   |  conseguiu    |            
+| Usuário   |  conseguiu    |     
 
 
-| Tarefa 2    | Simular busca de passagens.         |            
+| Tarefa 2    | Simular busca de passagens.  |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
-| Usuário 1   | conseguiu             |            
-| Usuário 2   |  conseguiu com dificuldade             |            
+| Usuário   |  conseguiu com dificuldade  |  
 
-| Tarefa 3    |Consultar horários e rotas.              |            
+
+| Tarefa 3    |Consultar horários e rotas. |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
-| Usuário 1   |  conseguiu             |            
-| Usuário 2   |  conseguiu com pouca dificuldade             |            
+| Usuário   |  conseguiu             |                      
+
 
 | Tarefa 4    |Verificar canais de atendimento.              |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
-| Usuário 1   |  conseguiu             |            
-| Usuário 2   |  conseguiu             |            
+| Usuário   |  conseguiu com dificuldade            |                      
 
 
-| Tarefa 5    |Procurar a opção “dúvidas comprar passagem”.          |            
+| Tarefa 5    |Procurar a opção “dúvidas comprar passagem”. |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
-| Usuário 1   |  não conseguiu             |            
-| Usuário 2   |  não conseguiu             |            
+| Usuário   |  conseguiu    |                      
 
 | Tarefa 6    | Procurar as informações da empresa.              |            
 |-------------|---------------|
-| **Participante**| **Resultado**     |
-| Usuário 1   |   não conseguiu            |            
-| Usuário 2   |  conseguiu com pouca difculdade             |            
+| **Participante**| **Resultado** |
+| Usuário   |   conseguiu  |                        
 
 
-| Tarefa 7    |Procurar os termos de uso da empresa.               |            
+| Tarefa 7    |Procurar os termos de uso da empresa.   |            
+|-------------|---------------|
+| **Participante**| **Resultado** |
+| Usuário   |  conseguiu    |            
+
+
+| Tarefa 8    |Encontrar o programa de viagens para jovens.  |            
+|-------------|---------------|
+| **Participante**| **Resultado** |
+| Usuário   |  conseguiu     |  
+
+
+| Tarefa 9    | Encontrar a passagem mais barata das “melhores ofertas”.  |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
-| Usuário 1   |  não conseguiu             |            
-| Usuário 2   |  não conseguiu             |            
+| Usuário   |  conseguiu  |                       
 
-
-| Tarefa 8    |Encontrar o programa de viagens para jovens.               |            
-|-------------|---------------|
-| **Participante**| **Resultado**     |
-| Usuário 1   |  conseguiu             |            
-| Usuário 2   |  não conseguiu             |            
-| Usuário 3   |  conseguiu             |            
-| Usuário 4   |  não conseguiu             |  
-
-| Tarefa 9    | Encontrar a passagem mais barata das “melhores ofertas”.           |            
-|-------------|---------------|
-| **Participante**| **Resultado**     |
-| Usuário 1   |  conseguiu             |            
-| Usuário 2   |  conseguiu             |            
 
 | Tarefa 10    | Procure a opção “Guia do passageiro”          |
 |--------------|---------------|
 |**Participante**| **Resultado**      |
-| Usuário 1    | xxxxxxxx               |
-| Usuário 2    | xxxxxxxxxx             |
+| Usuário 1    | conseguiu |
 
 ## Tabelas de etiquetas
 | Quantidade de etiquetas|                |
 |------------------------|----------------|
 |        Etiqueta        | Quantidade     |
-|       Cadê?            |      5         |
+|       Cadê?            |      3         |
 |      E agora?          |       2         |
-|     O que é isto?      |                |
+|     O que é isto?      |       0         |
 |      Epa!              |        1        |
 |    Onde estou          |        1        |
-|     Assim não dá.      |                |
-| Por que não funciona?  |                |
-| Ué, o que houve?       |                |
+|     Assim não dá.      |         0       |
+| Por que não funciona?  |         0       |
+| Ué, o que houve?       |         0       |
 |  Pra mim está bom...   |         2       |
-|  Desisto.              |        11        |
-| Vai de outro jeito.    |                |
+|  Desisto.              |         0       |
+| Vai de outro jeito.    |         0       |
 |   Não, obrigado.       |        2        |
-|  Socorro!              |                |
+|  Socorro!              |        0        |
