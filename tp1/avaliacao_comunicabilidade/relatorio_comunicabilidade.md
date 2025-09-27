@@ -34,60 +34,59 @@ O teste foi realizado por quatro usuários que realizaram a avaliação do siste
 ## Resultados
 Os testes foram realizados e etiquetados de acordo com a experiência de cada usuário.
 
-## Teste 1 - Avaliador: Felipe Gabriel
 
 ### Explorar promoções e ofertas
 | Tarefa 1    | Explorar promoções e ofertas | 
 |-------------|---------------|
 | **Participante**| **Resultado**     |
-| Usuário   |  Conseguiu    |     
+| Usuário 1  |  Conseguiu    |     
 
 
 | Tarefa 2    | Simular busca de passagens.  |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
-| Usuário   |  Conseguiu com dificuldade  |  
+| Usuário 1 |  Conseguiu com dificuldade  |  
 
 
 | Tarefa 3    |Consultar horários e rotas. |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
-| Usuário   |  Conseguiu             |                      
+| Usuário 1  |  Conseguiu             |                      
 
 
 | Tarefa 4    |Verificar canais de atendimento.              |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
-| Usuário   |  Conseguiu com dificuldade            |                      
+| Usuário 1  |  Conseguiu com dificuldade            |                      
 
 
 | Tarefa 5    |Procurar a opção “dúvidas comprar passagem”. |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
-| Usuário   |  Conseguiu    |                      
+| Usuário 1  |  Conseguiu    |                      
 
 | Tarefa 6    | Procurar as informações da empresa.              |            
 |-------------|---------------|
 | **Participante**| **Resultado** |
-| Usuário   |   Conseguiu  |                        
+| Usuário  1 |   Conseguiu  |                        
 
 
 | Tarefa 7    |Procurar os termos de uso da empresa.   |            
 |-------------|---------------|
 | **Participante**| **Resultado** |
-| Usuário   |  Conseguiu    |            
+| Usuário 1  |  Conseguiu    |            
 
 
 | Tarefa 8    |Encontrar o programa de viagens para jovens.  |            
 |-------------|---------------|
 | **Participante**| **Resultado** |
-| Usuário   |  Conseguiu     |  
+| Usuário 1  |  Conseguiu     |  
 
 
 | Tarefa 9    | Encontrar a passagem mais barata das “melhores ofertas”.  |            
 |-------------|---------------|
 | **Participante**| **Resultado** |
-| Usuário   |  Conseguiu  |                       
+| Usuário 1  |  Conseguiu  |                       
 
 
 | Tarefa 10    | Procure a opção “Guia do passageiro”          |
@@ -100,15 +99,15 @@ Os testes foram realizados e etiquetados de acordo com a experiência de cada us
 |------------------------|----------------|
 |        Etiqueta        | Quantidade     |
 |       Cadê?            |      3         |
-|      E agora?          |       2         |
-|     O que é isto?      |       0         |
-|      Epa!              |        1        |
-|    Onde estou          |        1        |
-|     Assim não dá.      |         0       |
-| Por que não funciona?  |         0       |
-| Ué, o que houve?       |         0       |
-|  Pra mim está bom...   |         2       |
-|  Desisto.              |         0       |
-| Vai de outro jeito.    |         0       |
-|   Não, obrigado.       |        2        |
-|  Socorro!              |        0        |
+|      E agora?          |       2        |
+|     O que é isto?      |       0        |
+|      Epa!              |        1       |
+|    Onde estou          |        1       |
+|     Assim não dá.      |         0      |
+| Por que não funciona?  |         0      |
+| Ué, o que houve?       |         0      |
+|  Pra mim está bom...   |         2      |
+|  Desisto.              |         0      |
+| Vai de outro jeito.    |         0      |
+|   Não, obrigado.       |        2       |
+|  Socorro!              |        0       |
