@@ -95,7 +95,7 @@ Os testes foram realizados e etiquetados de acordo com a experiência de cada us
 | Usuário 1    | Conseguiu |
 
 ## Tabelas de etiquetas
-|             Quantidade de etiquetas           |
+|Quantidade de etiquetas |                |
 |------------------------|----------------|
 |     Etiqueta           |    Quantidade  |
 |         Cadê?          |        3       |
