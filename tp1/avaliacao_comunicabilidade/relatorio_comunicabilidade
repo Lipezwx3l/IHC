@@ -24,9 +24,9 @@ Com base no perfil dos usuários-alvo, foram designadas as seguintes tarefas:
 
 ## Perfis dos Usuários
 * Adolescentes (15-21 anos)
-- Interesse : Jogos e entretenimento, geralmente focados em eSports, streamers de jogos populares.
-* Jovens Adultos (22-30 anos)
-- Interesse : Jogos, eSports, música, podcasts, estilo de vida (vlogs e streaming IRL), arte digital e conteúdo criativo.
+- Interesse : Compras de passagens para outras cidades 
+* Adultos (22-50 anos)
+- Interesse : Compras de passagem para outra cidade seja por férias ou à serviço do trabalho
 
 ## Execução
 Antes de executar o teste, todos os usuários receberam orientação sobre o sistema e sobre o método de avaliação.
@@ -34,7 +34,7 @@ O teste foi realizado por quatro usuários que realizaram a avaliação do siste
 ## Resultado
 Os testes foram realizados e etiquetados de acordo com a experiência de cada usuário.
 
-### Tabelas de atividades
+### Explorar promoções e ofertas
 | Tarefa 1    | Realizar login ou cadastro na Twitch.| 
 |-------------|---------------|
 | **Participante**| **Resultado**     |
@@ -42,46 +42,46 @@ Os testes foram realizados e etiquetados de acordo com a experiência de cada us
 | Usuário 2   |  conseguiu    |            
 
 
-| Tarefa 2    | Escolher catálogo de interesse.              |            
+| Tarefa 2    | Simular busca de passagens.         |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
 | Usuário 1   | conseguiu             |            
 | Usuário 2   |  conseguiu com dificuldade             |            
 
-| Tarefa 3    |Remover categoria de vídeo.               |            
+| Tarefa 3    |Consultar horários e rotas.              |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
 | Usuário 1   |  conseguiu             |            
 | Usuário 2   |  conseguiu com pouca dificuldade             |            
 
-| Tarefa 4    |Escolher um canal de streamer para assistir.              |            
+| Tarefa 4    |Verificar canais de atendimento.              |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
 | Usuário 1   |  conseguiu             |            
 | Usuário 2   |  conseguiu             |            
 
 
-| Tarefa 5    |iniciar uma transmissão.          |            
+| Tarefa 5    |Procurar a opção “dúvidas comprar passagem”.          |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
 | Usuário 1   |  não conseguiu             |            
 | Usuário 2   |  não conseguiu             |            
 
-| Tarefa 6    | Verificar as configurações do chat.              |            
+| Tarefa 6    | Procurar as informações da empresa.              |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
 | Usuário 1   |   não conseguiu            |            
 | Usuário 2   |  conseguiu com pouca difculdade             |            
 
 
-| Tarefa 7    |Vincular conta com outros serviços.               |            
+| Tarefa 7    |Procurar os termos de uso da empresa.               |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
 | Usuário 1   |  não conseguiu             |            
 | Usuário 2   |  não conseguiu             |            
 
 
-| Tarefa 8    |Habilitar ADF (Autenticação de dois fatores).               |            
+| Tarefa 8    |Encontrar o programa de viagens para jovens.               |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
 | Usuário 1   |  conseguiu             |            
@@ -89,12 +89,17 @@ Os testes foram realizados e etiquetados de acordo com a experiência de cada us
 | Usuário 3   |  conseguiu             |            
 | Usuário 4   |  não conseguiu             |  
 
-| Tarefa 9    | Desabilitar conta da Twitch.              |            
+| Tarefa 9    | Encontrar a passagem mais barata das “melhores ofertas”.           |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
 | Usuário 1   |  conseguiu             |            
 | Usuário 2   |  conseguiu             |            
 
+| Tarefa 10    | Procure a opção “Guia do passageiro”          |
+|--------------|
+|**Participante**| **Resultado**      |
+| Usuário 1    | xxxxxxxx               |
+| Usuário 2    | xxxxxxxxxx             |
 
 ## Tabelas de etiquetas
 | Quantidade de etiquetas|                |
