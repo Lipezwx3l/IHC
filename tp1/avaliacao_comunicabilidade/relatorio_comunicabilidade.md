@@ -40,60 +40,60 @@ Os testes foram realizados e etiquetados de acordo com a experiência de cada us
 | Tarefa 1    | Explorar promoções e ofertas | 
 |-------------|---------------|
 | **Participante**| **Resultado**     |
-| Usuário   |  conseguiu    |     
+| Usuário   |  Conseguiu    |     
 
 
 | Tarefa 2    | Simular busca de passagens.  |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
-| Usuário   |  conseguiu com dificuldade  |  
+| Usuário   |  Conseguiu com dificuldade  |  
 
 
 | Tarefa 3    |Consultar horários e rotas. |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
-| Usuário   |  conseguiu             |                      
+| Usuário   |  Conseguiu             |                      
 
 
 | Tarefa 4    |Verificar canais de atendimento.              |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
-| Usuário   |  conseguiu com dificuldade            |                      
+| Usuário   |  Conseguiu com dificuldade            |                      
 
 
 | Tarefa 5    |Procurar a opção “dúvidas comprar passagem”. |            
 |-------------|---------------|
 | **Participante**| **Resultado**     |
-| Usuário   |  conseguiu    |                      
+| Usuário   |  Conseguiu    |                      
 
 | Tarefa 6    | Procurar as informações da empresa.              |            
 |-------------|---------------|
 | **Participante**| **Resultado** |
-| Usuário   |   conseguiu  |                        
+| Usuário   |   Conseguiu  |                        
 
 
 | Tarefa 7    |Procurar os termos de uso da empresa.   |            
 |-------------|---------------|
 | **Participante**| **Resultado** |
-| Usuário   |  conseguiu    |            
+| Usuário   |  Conseguiu    |            
 
 
 | Tarefa 8    |Encontrar o programa de viagens para jovens.  |            
 |-------------|---------------|
 | **Participante**| **Resultado** |
-| Usuário   |  conseguiu     |  
+| Usuário   |  Conseguiu     |  
 
 
 | Tarefa 9    | Encontrar a passagem mais barata das “melhores ofertas”.  |            
 |-------------|---------------|
-| **Participante**| **Resultado**     |
-| Usuário   |  conseguiu  |                       
+| **Participante**| **Resultado** |
+| Usuário   |  Conseguiu  |                       
 
 
 | Tarefa 10    | Procure a opção “Guia do passageiro”          |
 |--------------|---------------|
-|**Participante**| **Resultado**      |
-| Usuário 1    | conseguiu |
+|**Participante**| **Resultado** |
+| Usuário 1    | Conseguiu |
 
 ## Tabelas de etiquetas
 | Quantidade de etiquetas|                |
