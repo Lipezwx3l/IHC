@@ -96,7 +96,7 @@ Os testes foram realizados e etiquetados de acordo com a experiência de cada us
 | Usuário 2   |  conseguiu             |            
 
 | Tarefa 10    | Procure a opção “Guia do passageiro”          |
-|--------------|
+|--------------|---------------|
 |**Participante**| **Resultado**      |
 | Usuário 1    | xxxxxxxx               |
 | Usuário 2    | xxxxxxxxxx             |
