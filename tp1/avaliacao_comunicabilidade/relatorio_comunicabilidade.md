@@ -31,7 +31,7 @@ Com base no perfil dos usuários-alvo, foram designadas as seguintes tarefas:
 ## Execução
 Antes de executar o teste, todos os usuários receberam orientação sobre o sistema e sobre o método de avaliação.
 O teste foi realizado por quatro usuários que realizaram a avaliação do sistema e, no decorrer da avaliação, foram informados sobre qual atividade o usuário iria realizar naquele momento.
-## Resultado
+## Resultados
 Os testes foram realizados e etiquetados de acordo com a experiência de cada usuário.
 
 ## Teste 1 - Avaliador: Felipe Gabriel
