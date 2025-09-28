@@ -1,20 +1,38 @@
-# TP1 - IHC
+<!-- Banner/Logo (opcional) -->
+<p align="center">
+  <img src="https://www.agoraviagem.com.br/wp-content/uploads/2022/09/Eucatur-Logo-1024x576.png" alt="TP1 IHC" width="200">
+</p>
 
-Curso: Engenharia de Software
+<h1 align="center">TP1 – IHC • Avaliação de Sistema (Eucatur)</h1>
 
-Docente: Andrey Antonio de Oliveira Rodrigues
+<p align="center">
+  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+  <img alt="Status" src="https://img.shields.io/badge/status-em%20andamento-%23f59e0b">
+  <img alt="IHC" src="https://img.shields.io/badge/IHC-Usabilidade%20•%20UX%20•%20Comunicabilidade-%23531373">
+</p>
 
-Integrantes: 
-* Felipe Gabriel
-* Livan do Nascimento
-* Arthur Vinicius
-* Renan Augusto
-* Ian Gabriel
-* Jenner Lucas
+<p align="center">
+  <b>Curso:</b> Engenharia de Software — ICET/UFAM<br>
+  <b>Docente:</b> Prof. Dr. Andrey Antonio de Oliveira Rodrigues
+</p>
 
-Sistema:
-Eucatur ( site )
+---
 
-Estamos aqui para realizar um teste de usabilidade no site da Eucatur. Nosso principal objetivo é entender como os usuários interagem com a plataforma e identificar possíveis pontos de melhoria. Queremos analisar a facilidade de navegação, a clareza das informações e como os recursos disponíveis impactam a experiência do usuário.
+## 📌 Resumo
+Este repositório contém o **Trabalho Prático 1 (TP1)** de Interação Humano-Computador. Avaliamos o site da **Eucatur** aplicando **quatro perspectivas**:  
+**(1)** Inspeção de Usabilidade (heurísticas de Nielsen), **(2)** Teste de Usabilidade (tarefas, métricas e SUS), **(3)** Avaliação de UX (UEQ) e **(4)** Comunicabilidade (MAC).  
+Organizamos o material por etapas, com planejamento → execução → análise → conclusões, incluindo planilhas, evidências e links de apoio.
 
-(Organizar links que levam para cada relatório e produto produzido neste trabalho)
+---
+
+## 👥 Integrantes
+- Felipe Gabriel  
+- Livan do Nascimento  
+- Arthur Vinicius  
+- Renan Augusto  
+- Ian Gabriel  
+- Jenner Lucas
+
+---
+
+## 🧭 Sumário
