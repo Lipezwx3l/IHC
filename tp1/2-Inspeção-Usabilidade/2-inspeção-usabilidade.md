@@ -12,7 +12,6 @@ Após a submissão dos relatórios de cada avaliador, foram realizadas comparaç
 
 
 ## Discriminação 
-O avaliador do sistema com o grupo teve uma reunião de discussão. Com base nos resultados da avaliação do Twitch Site, é claro que há problemas reais de usabilidade do software. Houve também um consenso geral sobre o quão sérias as questões levantadas são – “Não há falsos positivos aqui”, como um avaliador colocou. Alguns dos problemas destacados pelos avaliadores incluem:
 O avaliador do sistema, junto com o grupo, realizou uma reunião para discutir os resultados da avaliação do site da Eucatur. Ficou claro que existem problemas de usabilidade que impactam diretamente a experiência do usuário, e os avaliadores concordaram que as questões identificadas são relevantes e reais. Em relação à consistência, embora o site mantenha um padrão visual geral, algumas funções apresentam comportamentos diferentes em determinadas seções, o que pode confundir usuários iniciantes. A inclusão de tutoriais, dicas visuais e orientações contextuais poderia tornar a navegação mais intuitiva e facilitar o uso das funcionalidades.
 
 Outro ponto observado é a limitação nas opções de configuração de notificações e alertas, que não oferece flexibilidade suficiente para os usuários ajustarem o sistema de acordo com suas necessidades. Embora existam recursos para gerenciar reservas e compras, a lógica de utilização nem sempre é clara, e a organização das informações durante o processo de registro e finalização da compra poderia ser aprimorada. Além disso, alguns ícones e símbolos utilizados no site não são facilmente reconhecíveis pelos usuários, o que pode gerar confusão e dificultar a interação. Melhorar esses aspectos contribuiria para uma experiência mais fluida, clara e agradável no ambiente digital da Eucatur.
@@ -29,13 +28,6 @@ A equipe concordou que a resolução dessas questões contribuiria de forma expr
 
 | Heurísticas Violadas                        | Quantidade |
 |---------------------------------------------|------------|
-| Manter os usuários informados sobre o que está acontecendo  (H1)       | 1          |
-| O sistema deve utilizar a linguagem do usuário e apresentar as informações de forma lógica e natural       (H2)   | 1          |
-| Prover claras saídas de emergência para sair do estado indesejado sem ter que percorrer um extenso diálogo          (H3)    | 2          |
-| Os usuários não precisam adivinhar que diferentes palavras, situações ou ações possuem o mesmo significado                     (H4)     | 1          |
-| É melhor que o sistema possua um design cuidadoso para prevenir o erroantes dele acontecer                           (H5) | 2          |
-| O sistema deve tornar objetos, ações e opções visíveis. O usuário não deveter que lembrar informação de uma para outra parte do diálogo. Instruçõespara uso do sistema devem estar visíveis e facilmente recuperáveis quandonecessário (H6) | 1          |
-| É necessário prover ajuda e documentação embora seja melhor um sistemaque possa ser usado sem documentação                            (H10) | 3          |
 | H1 - Manter os usuários informados sobre o que está acontecendo: O site da Eucatur, em alguns momentos, não dá retorno claro sobre processos em andamento (ex: compra de passagens).     | 1          |
 | H2 - Utilizar a linguagem do usuário e apresentar informações de forma lógica e natural: Certas mensagens e informações não são claras para usuários leigos, causando dúvidas.   | 1          |
 | H3 - Prover saídas de emergência: Em situações de erro ou preenchimento incorreto de dados, o usuário não encontra facilmente um caminho rápido para corrigir ou sair.   | 2          |
