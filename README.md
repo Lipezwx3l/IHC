@@ -32,3 +32,4 @@ Organizamos o material por etapas, com planejamento → execução → análise 
 ---
 
 ## 🧭 Sumário
+Este trabalho apresenta uma análise do sistema do site da Eucatur, destacando aspectos que impactam a experiência do usuário. Foram observados problemas relacionados à navegabilidade, à ausência de orientações claras, à falta de padronização nas páginas e à limitação de recursos de personalização. Também se identificou a carência de “saídas de emergência” para correção de erros e de elementos que transmitam maior segurança e confiança. Como proposta, sugere-se investir em maior consistência de design, implementar feedbacks interativos, ampliar a orientação ao usuário e tornar o sistema mais inclusivo e intuitivo. Essas melhorias contribuiriam para otimizar a usabilidade e fortalecer a relação da empresa com seus clientes.
