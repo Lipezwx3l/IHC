@@ -1,7 +1,3 @@
-<!-- Banner/Logo (opcional) -->
-<p align="center">
-  <img src="https://www.agoraviagem.com.br/wp-content/uploads/2022/09/Eucatur-Logo-1024x576.png" alt="TP1 IHC" width="200">
-</p>
 
 <h1 align="center">TP1 – IHC • Avaliação de Sistema (Eucatur)</h1>
 
