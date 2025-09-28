@@ -28,9 +28,9 @@ Docente: Andrey Antonio de Oliveira Rodrigues
 
 ### TABELA 1 - Tabela de tarefas/atividades 
 
-|  SETEMBRO  |    seg    |   ter     |   qua      |  qui      |   sex     |  sáb       |  dom       | seg     | ter     |  qua  |
+|  SETEMBRO  |        |       |         |        |        |         |         |      |      |    |
 |------------|-----------|-----------|------------|-----------|-----------|------------|------------|---------|---------|-------|
-|TAREFA X DIA|     07    |08         |    09      |    09     |    11     |     12     |    13      |  14     |   15    |  16   |
+|TAREFA X DIA|     12    |  13       |    15    |    16    |    17    |     18     |    19      |  20     |   24    |  25   |
 |  T1        |A1,A3,A4,A5|           |            |           |           |            |            |         |         |       |
 |  T2        |  A1 e A3  |           |            |           |           |            |            |         |         |       |
 |  T3        |     A1    |           |            |           |           |            |            |         |         |       |
