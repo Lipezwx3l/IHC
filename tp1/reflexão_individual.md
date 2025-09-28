@@ -20,3 +20,11 @@ A análise do site da Eucatur identificou problemas de usabilidade que podem imp
 Para aprimorar a experiência, recomenda-se a inclusão de dicas e tutoriais que auxiliem iniciantes, além da criação de interfaces mais simples e intuitivas, tornando o site mais acessível e funcional para todos os usuários.
 
 ## Reflexão individual - Inspetor 5
+A análise do sistema da Eucatur evidencia que a navegabilidade ainda carece de maior consistência e fluidez. Ao interagir com as diferentes seções, o usuário pode se sentir perdido diante da falta de padronização entre as páginas e da ausência de uma lógica clara na transição de etapas. Esse aspecto compromete a experiência de quem acessa o sistema pela primeira vez, mas também pode gerar frustração em clientes recorrentes, que esperam uma jornada digital prática e intuitiva.
+
+O uso de um design mais uniforme e organizado contribuiria para reduzir a sensação de desorientação. Ao adotar padrões consistentes, atalhos de navegação e menus mais objetivos, o sistema se tornaria mais acessível, fortalecendo a confiança do usuário e garantindo que o foco esteja no serviço, e não nas dificuldades de interação.
+
+## Reflexão individual - Inspetor 6
+Ao analisar o sistema da Eucatur, percebe-se que ainda existem limitações importantes na forma como ele orienta o usuário durante sua utilização. A ausência de mensagens claras de feedback, guias interativos e instruções visuais aumenta a curva de aprendizado, sobretudo para quem não possui tanta familiaridade com ferramentas digitais. Essa lacuna compromete a inclusão e dificulta o acesso a funcionalidades essenciais.
+
+Outro ponto de atenção é a falta de alternativas rápidas para corrigir erros ou retornar a etapas anteriores. A inexistência de “saídas de emergência” torna a experiência rígida e pouco acolhedora, transmitindo insegurança. Investir em recursos de apoio, como indicadores, tutoriais simplificados e feedback imediato, além de tornar o sistema mais intuitivo, reforçaria a imagem da Eucatur como uma empresa preocupada em oferecer um ambiente digital mais humano e confiável.
