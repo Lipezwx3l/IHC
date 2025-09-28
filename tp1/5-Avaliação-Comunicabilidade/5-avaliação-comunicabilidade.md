@@ -175,16 +175,16 @@ Os testes foram realizados e etiquetados de acordo com a experiência de cada us
 |------------------------|----------------|
 |        Etiqueta        | Quantidade     |
 |       Cadê?            |      5         |
-|      E agora?          |       2         |
-|     O que é isto?      |                |
+|      E agora?          |       3         |
+|     O que é isto?      |        0        |
 |      Epa!              |        1        |
 |    Onde estou          |        1        |
-|     Assim não dá.      |                |
-| Por que não funciona?  |                |
-| Ué, o que houve?       |                |
-|  Pra mim está bom...   |         2       |
-|  Desisto.              |        11        |
-| Vai de outro jeito.    |                |
+|     Assim não dá.      |           0     |
+| Por que não funciona?  |          0      |
+| Ué, o que houve?       |         0       |
+|  Pra mim está bom...   |         4       |
+|  Desisto.              |        0        |
+| Vai de outro jeito.    |        0        |
 |   Não, obrigado.       |        2        |
-|  Socorro!              |                |
+|  Socorro!              |        0        |
 
