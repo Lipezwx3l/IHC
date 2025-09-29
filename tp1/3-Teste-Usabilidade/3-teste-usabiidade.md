@@ -24,12 +24,21 @@ A Eucatur é uma empresa de transporte Nacional bastante reconhecida em vário l
 Aqui nós selecionamos 10 tarefas que o usuário possa fazer no sistema 
 
 1° explorar os pacotes oferecidos 
+
 2° simular busca de passagem
+
 3° consultar horários e rotas
+
 4° verificar canais de atendimento
+
 5° procurar a opção "dúvidas comprar passagem"
+
 6° procurar as informações da empresa
+
 7° procurar os termos de uso da empresa 
+
 8° encontrar o programa de viagens para jovens 
+
 9° encontrar a passagem mais barata dos "melhores ofertas"
+
 10° procure a opção "guia do passageiro"
