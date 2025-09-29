@@ -53,5 +53,9 @@ Após realizarmos  os teste de usabilidade com a tecnica Think Aloud realizamos 
 
 Tabelas com os dados quantitativos do teste para cada tarefa.
 
+[Clique aqui](https://github.com/Lipezwx3l/IHC/blob/main/tp1/3-Teste-Usabilidade/Tabela_tarefas.md)
 
+Tebela com os dados qualitativos do teste para cada participante.
+
+[Clique aqui]()
 **Sugestão de Melhorias com base na avalição do teste de Usabilidade**
