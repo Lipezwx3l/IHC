@@ -1,4 +1,4 @@
-# Relatório de Comunicabilidade.
+https://github.com/Lipezwx3l/IHC/blob/main/tp1/3-Teste-Usabilidade/Tabela_participantes.md# Relatório de Comunicabilidade.
 
 
 ## 1 Introdução 
@@ -57,5 +57,15 @@ Tabelas com os dados quantitativos do teste para cada tarefa.
 
 Tebela com os dados qualitativos do teste para cada participante.
 
-[Clique aqui]()
+[Clique aqui](https://github.com/Lipezwx3l/IHC/blob/main/tp1/3-Teste-Usabilidade/Tabela_participantes.md)
+
+
 **Sugestão de Melhorias com base na avalição do teste de Usabilidade**
+
+Canais de atendimento e suporte: Centralizar um “Acessibilidade / Ajuda especial” bem visível no topo ou rodapé do site, com telefone, chat ou atendimento exclusivo para pessoas com diferentes deficiências.
+
+Consistência visual e contraste: Aumentar tamanho mínimo de botões/áreas clicáveis para facilitar toque em telas sensíveis.
+
+Navegação e semântica: Seções como “Horários”, “Agências”, “Contato” devem estar claramente definidas, com navegação simples. 
+
+Tempo de carregamento / performance: Minimizar dependência de conteúdo pesado se não for essencial.
