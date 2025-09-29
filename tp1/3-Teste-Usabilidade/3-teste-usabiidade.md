@@ -52,3 +52,6 @@ O teste foi realizado com os observadores explicando para cada usuário o proced
 Após realizarmos  os teste de usabilidade com a tecnica Think Aloud realizamos a coleta das metricas obtidas pelos observadores em duas tabelas.
 
 Tabelas com os dados quantitativos do teste para cada tarefa.
+
+
+**Sugestão de Melhorias com base na avalição do teste de Usabilidade**
