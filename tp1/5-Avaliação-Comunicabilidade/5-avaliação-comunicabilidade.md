@@ -188,3 +188,7 @@ Os testes foram realizados e etiquetados de acordo com a experiência de cada us
 |   Não, obrigado.       |        2        |
 |  Socorro!              |        0        |
 
+
+# Vídeo do Youtube teste MAC
+
+https://youtu.be/1Wq1rbBJiqg
