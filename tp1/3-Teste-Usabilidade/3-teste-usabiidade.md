@@ -1,6 +1,3 @@
-https://github.com/Lipezwx3l/IHC/blob/main/tp1/3-Teste-Usabilidade/Tabela_participantes.md# Relatório de Comunicabilidade.
-
-
 ## 1 Introdução 
 
 A necessidade de interação com computadores está cada vez mais presente em nossa vida. Não importam os grandes recursos gastos em tecnologia sem que a satisfação do usuário seja alcançada. Desta forma, usabilidade atua para ressaltar a importância de se pensar nas pessoas que estão do outro lado do monitor e na reação das mesmas diante da utilização dos sistemas. Uma das formas de se tentar garantir a usabilidade de um produto é através da realização de testes de usabilidade ao longo do processo de desenvolvimento.
